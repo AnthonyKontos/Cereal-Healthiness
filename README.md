@@ -3,7 +3,7 @@ In this analysis we will be using descriptive statistics and basic visualization
 
 ## Conclusion 
 The Bran shelf has the healthiest cereals as 2/3 of the healthy cereals
-are bran (if we assume all the nutritional standards for healthiness are met)
+are bran (if we assume all the nutritional standards for healthiness are met).
 
 
 Some conclusions we can make about the cereal dataset is that there are generally
